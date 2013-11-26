@@ -1,4 +1,4 @@
-// Example code for Chapter 5.2 from "Build Web Application with Golang"
+// Example code for Chapter 5.2 from "Build Web Application with Golang".
 // Purpose: Use SQL driver to perform simple CRUD operations.
 package main
 

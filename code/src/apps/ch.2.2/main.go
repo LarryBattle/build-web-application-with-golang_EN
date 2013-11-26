@@ -1,4 +1,4 @@
-// Example code for Chapter 2.2 from "Build Web Application with Golang"
+// Example code for Chapter 2.2 from "Build Web Application with Golang".
 // Purpose: Goes over the assignment and manipulation of basic data types.
 package main
 

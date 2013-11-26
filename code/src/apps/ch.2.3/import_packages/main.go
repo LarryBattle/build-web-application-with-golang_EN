@@ -1,4 +1,4 @@
-// Example code for Chapter 2.3 from "Build Web Application with Golang"
+// Example code for Chapter 2.3 from "Build Web Application with Golang".
 // Purpose: Shows different ways of importing a package.
 // Note: For the package `only_call_init`, we reference the path from the
 // base directory of `$GOPATH/src`. The reason being Golang discourage

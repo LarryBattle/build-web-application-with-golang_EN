@@ -1,4 +1,4 @@
-// Example code for Chapter 2.3 from "Build Web Application with Golang"
+// Example code for Chapter 2.3 from "Build Web Application with Golang".
 // Purpose: Shows how to return multiple values from a function
 package main
 

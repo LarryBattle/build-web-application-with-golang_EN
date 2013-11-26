@@ -1,4 +1,4 @@
-// Example code for Chapter 4.5
+// Example code for Chapter 4.5.
 // Purpose is to create a server to handle uploading files.
 package main
 

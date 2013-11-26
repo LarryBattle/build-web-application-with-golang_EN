@@ -1,4 +1,4 @@
-// Example code for Chapter 5.6 from "Build Web Application with Golang"
+// Example code for Chapter 5.6 from "Build Web Application with Golang".
 // Purpose: Shows you have to perform basic CRUD operations for a mongodb driver.
 package main
 

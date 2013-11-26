@@ -1,4 +1,4 @@
-// Example code for Chapter 5.4 from "Build Web Application with Golang"
+// Example code for Chapter 5.4 from "Build Web Application with Golang".
 // Purpose: Show how to perform CRUD operations using a postgres driver
 package main
 

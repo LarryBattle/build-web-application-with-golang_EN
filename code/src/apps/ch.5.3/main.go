@@ -1,4 +1,4 @@
-// Example code for Chapter 5.3 from "Build Web Application with Golang"
+// Example code for Chapter 5.3 from "Build Web Application with Golang".
 // Purpose: Shows how to run simple CRUD operations using a sqlite driver
 package main
 

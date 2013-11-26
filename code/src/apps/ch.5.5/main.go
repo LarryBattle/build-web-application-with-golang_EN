@@ -1,4 +1,4 @@
-// Example code for Chapter 5.5
+// Example code for Chapter 5.5.
 // Purpose is to show to use BeeDB ORM for basic CRUD operations for sqlite3
 package main
 

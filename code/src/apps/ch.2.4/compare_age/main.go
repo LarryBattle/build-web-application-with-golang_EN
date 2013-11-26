@@ -1,4 +1,4 @@
-// Example code for Chapter 2.4 from "Build Web Application with Golang"
+// Example code for Chapter 2.4 from "Build Web Application with Golang".
 // Purpose: Shows you how to pass and use structs.
 package main
 

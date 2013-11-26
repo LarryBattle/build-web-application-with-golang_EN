@@ -1,4 +1,4 @@
-// Example code for Chapter 4.1 from "Build Web Application with Golang"
+// Example code for Chapter 4.1 from "Build Web Application with Golang".
 // Purpose: Shows how to create a simple login using a template
 // Run: `go run main.go`, then access `http://localhost:9090` and `http://localhost:9090/login`
 package main

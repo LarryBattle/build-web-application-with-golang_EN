@@ -1,6 +1,6 @@
-// Example code for Chapter 3.2 from "Build Web Application with Golang"
-// Purpose: Shows how to prevent duplicate submissions by using tokens
-// Example code for Chapter 4.4 based off the code from Chapter 4.2
+// Example code for Chapter 4.4 from "Build Web Application with Golang".
+// Purpose: Shows how to prevent duplicate submissions by using tokens.
+// Example code for Chapter 4.4 is based off the code from Chapter 4.2
 // Run `go run main.go` then access http://localhost:9090
 package main
 

@@ -1,4 +1,4 @@
-// Example code for Chapter 2.3 from "Build Web Application with Golang"
+// Example code for Chapter 2.3 from "Build Web Application with Golang".
 // Purpose: Goes over if, else, switch conditions, loops and defer.
 package main
 

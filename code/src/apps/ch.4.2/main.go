@@ -1,4 +1,4 @@
-// Example code for Chapter 4.2 from "Build Web Application with Golang"
+// Example code for Chapter 4.2 from "Build Web Application with Golang".
 // Purpose: Shows how to perform server-side validation of user input from a form.
 // Also shows to use multiple template files with predefined template names.
 // Run `go run main.go` and then access http://localhost:9090

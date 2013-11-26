@@ -1,4 +1,4 @@
-// Example code for Chapter 4.3 from "Build Web Application with Golang"
+// Example code for Chapter 4.3 from "Build Web Application with Golang".
 // Purpose: Shows how to properly escape input
 package main
 

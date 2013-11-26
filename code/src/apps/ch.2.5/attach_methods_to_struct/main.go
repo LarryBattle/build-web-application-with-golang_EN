@@ -1,4 +1,4 @@
-// Example code from Chapter 2.5
+// Example code from Chapter 2.5.
 // Attach method to struct.
 package main
 

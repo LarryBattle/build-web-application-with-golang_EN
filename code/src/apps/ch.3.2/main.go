@@ -1,4 +1,4 @@
-// Example code for Chapter 3.2 from "Build Web Application with Golang"
+// Example code for Chapter 3.2 from "Build Web Application with Golang".
 // Purpose: Shows how to acces the form values from the request
 package main
 

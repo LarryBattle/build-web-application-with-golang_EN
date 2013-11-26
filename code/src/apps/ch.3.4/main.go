@@ -1,4 +1,4 @@
-// Example code for Chapter 3.4 from "Build Web Application with Golang"
+// Example code for Chapter 3.4 from "Build Web Application with Golang".
 // Purpose: Shows how to create a handler for `http.ListenAndServe()`
 // Run `go run main.go` then access `http://localhost:9090`
 package main

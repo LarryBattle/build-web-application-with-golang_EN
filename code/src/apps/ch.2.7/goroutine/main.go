@@ -1,4 +1,4 @@
-// Example code for Chapter 2.7 from "Build Web Application with Golang"
+// Example code for Chapter 2.7 from "Build Web Application with Golang".
 // Purpose: Shows how to launch a simple gorountine
 package main
 
