@@ -10,7 +10,8 @@ import (
 
 func main() {
 	if len(os.Args) == 1 {
-		fmt.Println("Usage: regexp [string]")
+		fmt.Println("Missing arguments");
+		fmt.Println("Usage: program [string]")
 		os.Exit(1)
 	}
 	numberPattern := `^[-+]?(\d+\.?)?\d+$`
