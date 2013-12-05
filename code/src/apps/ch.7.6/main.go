@@ -56,7 +56,7 @@ func contains() {
 	fmt.Println(strings.Contains("seafood", ""))
 	fmt.Println(strings.Contains("", ""))
 }
-func append() {
+func appendType() {
 	str := make([]byte, 0, 100)
 	str = strconv.AppendInt(str, 4567, 10)
 	str = strconv.AppendBool(str, false)
@@ -91,7 +91,7 @@ func main() {
 	indexOf()
 	repeat()
 	replace()
-	append()
+	appendType()
 	contains()
 	fields()
 	split()
