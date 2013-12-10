@@ -1,4 +1,5 @@
-//Run example ch.6.1 then run `go run main.go localhost:8080`
+// Use this as the tcp client to run the tcp examples.
+// You might need to disable your firewall for this work.
 package main
 
 import (
